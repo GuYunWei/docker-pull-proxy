@@ -1,15 +1,15 @@
-langgenius/dify-api:0.15.3 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-api:0.15.3
+langgenius/dify-api:0.15.3 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-api:0.15.3
 
-langgenius/dify-web:0.15.3 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-web:0.15.3
+langgenius/dify-web:0.15.3 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-web:0.15.3
 
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/gkzx2024/postgres:15-alpine
+postgres:15-alpine crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/postgres:15-alpine
 
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/gkzx2024/redis:6-alpine
+redis:6-alpine crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/redis:6-alpine
 
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/gkzx2024/weaviate:1.19.0
+semitechnologies/weaviate:1.19.0 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/weaviate:1.19.0
 
-langgenius/dify-sandbox:0.2.10 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.10 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-sandbox:0.2.10
 
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/squid:latest
+ubuntu/squid:latest crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/squid:latest
 
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+nginx:latest crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/nginx:latest
