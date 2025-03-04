@@ -1,6 +1,6 @@
-langgenius/dify-api:0.15.3 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-api:0.15.3
+langgenius/dify-api:1.0.0 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-api:1.0.0
 
-langgenius/dify-web:0.15.3 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-web:0.15.3
+langgenius/dify-web:1.0.0 crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/dify-web:1.0.0
 
 postgres:15-alpine crpi-qha9zod7jj1h7qwo.cn-beijing.personal.cr.aliyuncs.com/dify-ns/postgres:15-alpine
 
